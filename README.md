@@ -2,7 +2,9 @@
 
 ### 1. Running the Program
 
-First, open a terminal and navigate to the this directory where the program is located:
+First, download this repository to your local machine.
+
+Second, open a terminal and navigate to the this directory where the program is located:
 
 and run this code 
 
